@@ -139,3 +139,10 @@ main{
 .skills h3{
   text-align: center;
 }
+/*resume section styles*/
+.resume-container{
+  display: flex;
+}
+ hr{
+  margin-right:10px;
+}
